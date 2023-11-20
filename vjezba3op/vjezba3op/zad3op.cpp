@@ -15,7 +15,7 @@ int main() {
 	auto it = vec.begin();
 	while ((it = std::find(it, vec.end(), minElement)) != vec.end()) {
 		vec.insert(it, 0);
-		it = std::next(it, 2); // Pomakni pokazivač za dva koraka
+		it = std::next(it, 2); 
 	}
 
 	
