@@ -68,8 +68,7 @@ public:
 	// Metoda za izracunavanje bodova iz akuze
 	int izracunajBodoveIzAkuze() {
 		int bodoviAkuza = 0;
-		// Implementacija pravila za akuze
-		// ...
+		//..........
 
 		return bodoviAkuza;
 	}
